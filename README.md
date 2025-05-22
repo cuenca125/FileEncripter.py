@@ -1,4 +1,4 @@
-# FileEncripter.py
+# FileEncrypter.py
 ## FileEncrypter.py is a python script for symmetrical encryption/decryption.
 
 The FileEncrypter.py Python script is a basic symmetric encryption and decryption tool. It uses the Pathlib and Cryptography.Fernet modules and absolute paths.  
